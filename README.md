@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali-ghadiri1
+- 👋 Hi, I’m Ali Ghadiri
 - 👀 I’m interested in Web development, network and security.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
